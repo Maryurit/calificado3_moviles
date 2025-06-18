@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LaboratorioCalificado03</string>
+    <string name="recycler_description">Lista de profesores</string>
+    <string name="teacher_image" />
+</resources>
